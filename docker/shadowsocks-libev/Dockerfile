@@ -5,7 +5,7 @@
 # https://github.com/shadowsocks/simple-obfs
 # https://github.com/shadowsocks/v2ray-plugin
 
-FROM alpine:latest
+FROM waltonmax/alpine:latest
 LABEL maintainer="Teddysun <i@teddysun.com>"
 
 WORKDIR /root
